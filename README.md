@@ -1,3 +1,3 @@
 # SQL
  Command to open mysql in Windows 
- mysql -u root -p
+ *mysql -u root -p
